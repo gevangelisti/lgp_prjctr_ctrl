@@ -25,6 +25,7 @@
 	title = {Data-Driven Momentum Observers With Physically Consistent Gaussian Processes},
 	year = {2024}}
 %}
+
 %%
 rng(0);
 close all
